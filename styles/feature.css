@@ -1,0 +1,35 @@
+.featured {
+  background: #006241;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  min-width: 90rem;
+  margin-bottom: 2rem;
+  padding: 1rem 0;
+}
+
+.featured__wrapper {
+  width: 60vw;
+}
+
+.featured__link,
+.featured__link:visited {
+  color: #fff;
+}
+
+.featured__title {
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0 auto;
+}
+
+.featured__description {
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}

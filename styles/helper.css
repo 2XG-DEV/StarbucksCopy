@@ -1,0 +1,11 @@
+.bg-bright {
+  background: #d4e9e2;
+}
+
+.font-dark {
+  color: #000;
+}
+
+.border-dark {
+  border: 1px #000 solid;
+}
